@@ -1,5 +1,7 @@
 # Google-Colab-Link
 
-Added files for Colab AI generated files using 
-  FLUX, 
-  CONFYUI
+Added files for Google Colab AI generated files using 
+  Google AI Labs
+  A machine Learning Lab.
+  and other snippets I decided to save.
+  
